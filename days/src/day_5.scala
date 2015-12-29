@@ -1,5 +1,3 @@
-package adventOfCode
-
 object PartOne {
   val volwes = "aeiou"
   val doubleRegex = """([a-zA-Z])\1""".r
